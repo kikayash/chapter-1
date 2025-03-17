@@ -1,0 +1,6 @@
+alert("Haaiii sayanggkuuu")
+alert("How's your daaayyyy? (chaatttt akuuu diii whatssaapppppp)")
+alert("i hope it will be filled with happiness!! xoxo")
+alert("aku sayaanggg bangeeettt sama kamuuu, omaaiigaattt")
+alert("nanti pencetnya jangan langsung iya yah, pencet engga duluuuu:>")
+alert("mwehe:3")
